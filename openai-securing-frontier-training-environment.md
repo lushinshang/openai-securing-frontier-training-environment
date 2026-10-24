@@ -349,7 +349,7 @@ OpenAI 在原文結尾說，強化資安態勢的工作永遠不會結束。比�
 
 - **統籌**：Claude Code（Anthropic Claude Sonnet 5.5）負責規劃、調度各模型、整合結果，以及判斷哪些說法能採用、哪些要降級。
 - **研究、撰稿與審稿**：Claude Opus 系列模型（以 subagent 執行）。四位研究員各查一個主題的 2026 年事件，一位統整成證據帳本，一位負責撰稿，另有三位互相獨立的審稿者，分別查事實與歸屬、查文風與規範、做修稿後的終審。
-- **全文翻譯**：Claude Sonnet 5.5 初譯，Claude Opus 逐段審校並統一術語；譯文僅供對照閱讀，並非 OpenAI 官方翻譯。
+- **全文翻譯**：Claude Sonnet 5.5 初譯，Claude Opus 逐段審校並統一術語；譯文收在[全文繁中譯本](translation-zh.html)，僅供對照閱讀，並非 OpenAI 官方翻譯。
 - **獨立查證**：十八項關鍵主張，各交給 agy（Google Gemini 4 Argon）、Codex CLI（OpenAI）與 Claude Code（Anthropic）三個不同的 AI agent 工具，各自獨立查證，再由統籌模型比對取捨。
 - **插圖**：封面與四張概念圖由 Codex 的 imagegen 繪製，並由 agy 讀回圖中文字核對；資料型圖表由腳本依一手資料繪製；圖一與圖二是依 OpenAI 原文圖重新繪製的繁中版。
 - **人的角色**：提出需求、設定規則、決定是否發布。沒有人類逐句分析、查證或校稿。

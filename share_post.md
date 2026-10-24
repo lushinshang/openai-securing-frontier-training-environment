@@ -11,3 +11,4 @@ OpenAI 在 2026 年 10 月 23 日上架了一篇〈Securing our frontier model t
 （研究、查證、寫作與繪圖都由 AI 模型完成，不是人類分析的；每個說法都附來源可核對。）
 
 完整導讀：https://lushinshang.github.io/openai-securing-frontier-training-environment/
+全文繁中譯本（非官方、AI 翻譯）：https://lushinshang.github.io/openai-securing-frontier-training-environment/translation-zh.html

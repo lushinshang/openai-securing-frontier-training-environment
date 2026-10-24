@@ -13,6 +13,7 @@ OpenAI 在 7 月被自家評測中的模型入侵 Hugging Face、9 月又讓內�
 | 檔案 | 說明 |
 |---|---|
 | `index.html` | 導讀網頁（單檔，直接用瀏覽器開啟；圖片用相對路徑） |
+| `translation-zh.html` | OpenAI 原文全文繁中譯本（非官方，AI 模型翻譯與審校，未經人工校稿；原文版權屬 OpenAI） |
 | `openai-securing-frontier-training-environment.md` | 導讀 Markdown 原稿 |
 | `images/` | 封面、原文兩張圖的繁中版、輔助圖（橫式與手機直式各一版） |
 | `share_post.md` | 社群分享文 |
@@ -21,6 +22,7 @@ OpenAI 在 7 月被自家評測中的模型入侵 Hugging Face、9 月又讓內�
 
 - OpenAI，〈Securing our frontier model training environment〉，2026-10-23：https://openai.com/index/securing-our-frontier-model-training-environment/
 - 逐字稿：不適用（原始素材為網頁文章）。
+- 全文繁中譯本：`translation-zh.html`（非官方翻譯，僅供對照閱讀；若有出入，以 OpenAI 英文原文為準）。
 - 圖一、圖二為依原文圖重新繪製的繁體中文版（圖二依原頁圖表資料重畫）；其餘圖為編者所作，標有「本文整理」者屬導讀者詮釋。
 
 ## 重要來源
