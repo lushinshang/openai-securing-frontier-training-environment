@@ -1,6 +1,8 @@
 PHP、Node.js、Linux 的漏洞告警一波接一波，下一個還不知道會是什麼。
 
-OpenAI 這篇文章給防守方的提醒，不是某個漏洞怎麼補，而是兩件事：
+OpenAI 在 2026 年 10 月 23 日上架了一篇〈Securing our frontier model training environment〉，講它怎麼重蓋前沿模型訓練環境的圍堵。原文：https://openai.com/index/securing-our-frontier-model-training-environment/
+
+這篇給防守方的提醒，不是某個漏洞怎麼補，而是兩件事：
 1. 先假設內層已經失守，只測外圍還擋不擋得住。
 2. 告警響了之後，到停機要幾分鐘？9/20 那次，告警 12 分鐘就響、3 分鐘有人確認，停機卻拖了 2.5 小時。
 
