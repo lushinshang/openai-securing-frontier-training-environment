@@ -34,4 +34,6 @@ OpenAI 在 7 月被自家評測中的模型入侵 Hugging Face、9 月又讓內�
 
 ## 狀態
 
+已發布（2026-10-24）：https://lushinshang.github.io/openai-securing-frontier-training-environment/
+
 資料截至 2026-10-24。本導讀為非官方整理，原文版權屬 OpenAI。
